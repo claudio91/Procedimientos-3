@@ -22,7 +22,7 @@ public class NUMEROS {
         
     
     }
-    public static void numero(int numero){ // creamos nuestro medotodo llamado
+    public static void numero(int numero){ // creamos nuestro medotodo llamado numero
     
     for (int i=0;i<=numero;i++){ // cramos una iteracion para que cumpla una condicion hasta que i sea menor o igual a el numero ingrasado,si no, se suma 1 a i(ESTO SE REPETIRA HASTA QUE SE CUMPLA)
          
