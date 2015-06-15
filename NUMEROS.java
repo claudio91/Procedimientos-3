@@ -24,7 +24,7 @@ public class NUMEROS {
     }
     public static void numero(int numero){ // creamos nuestro medotodo llamado numero con un parametro de tipo entero.
     
-    for (int i=0;i<=numero;i++){ // cramos una iteracion para que cumpla una condicion hasta que i sea menor o igual a el numero ingrasado,si no, se suma 1 a i(ESTO SE REPETIRA HASTA QUE SE CUMPLA)
+    for (int i=0;i<=numero;i++){ // cramos una iteracion para que cumpla una condicion hasta que i sea menor o igual a el numero ingrasado,si no, se suma 1 a i(ESTO SE REPETIRA HASTA QUE SEA MAYOR O IGUAL QUE EL NUMERO INGRESADO)
          
      if (numero<=0){  // luego si numero ingresado es menor o igual a 0 entonces sera "ERROR"
         System.out.println("ERROR ");// SALIDA ESTANDAR 
